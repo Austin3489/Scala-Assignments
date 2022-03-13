@@ -17,3 +17,59 @@ Scripts:
 Images:
 88
 
+shapeAreas creates a random list of 25 shape objects chosen between 3 different shapes, taking in a value for the radius and side lengths.
+Output:
+Set area calculator value(radius or side length)
+5
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Circle:
+78.5
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Circle:
+78.5
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Pentagon:
+43.01193501472417
+Area of Circle:
+78.5
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Circle:
+78.5
+Area of Square:
+25.0
+Area of Pentagon:
+43.01193501472417
+Area of Circle:
+78.5
+Area of Square:
+25.0
+Area of Square:
+25.0
+Area of Circle:
+78.5
+Area of Circle:
+78.5
+Area of Square:
+25.0
+Area of Circle:
+78.5
+Total Area: 
+1089.0238700294483
